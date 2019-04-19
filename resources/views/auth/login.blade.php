@@ -17,6 +17,7 @@
                              <a href="{{ url('/login/github') }}" class="btn btn-github mt-2 mr-2"><i class="fab fa-github"></i> Github</a>
                              <a href="{{ url('/login/twitter') }}" class="btn btn-twitter mt-2 mr-2"><i class="fab fa-twitter"></i> Twitter</a>
                              <a href="{{ url('/login/bitbucket') }}" class="btn btn-bitbucket mt-2 mr-2"><i class="fab fa-bitbucket"></i> Bitbucket</a>
+                             <a href="{{ url('/login/gitlab') }}" class="btn btn-primary mt-2 mr-2"><i class="fab fa-gitlab"></i> Gitlab</a>
                              
                         </div>
                     </div>

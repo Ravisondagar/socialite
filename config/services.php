@@ -45,14 +45,14 @@ return [
     ],
 
     'gitlab' => [
-        'client_id' => env('GITLAB_CLIENT_ID'),
-        'client_secret' => env('GITLAB_CLIENT_SECRET'),
+        'client_id' => '128ba25e243fa3611bd85bb5197a25d1079fd4c5089fb0fc6cd9c2ecef451f88',
+        'client_secret' => '3e825494ec0d6ede3c2a493839dd4baf245c64bf31d8b7d7dd54997cf7684d01',
         'redirect' => 'http://localhost:8000/login/gitlab/callback',
     ],
 
     'bitbucket' => [
-        'client_id' => '81tmgcyl2i3e52',
-        'client_secret' => '1WMGP0Ios7m5mERy',
+        'client_id' => 'nTmMs5AWa7FgHd3Wmf',
+        'client_secret' => 'T8WM3xM9q8q9r4ZH9hbp9gvYG2vkqa3U',
         'redirect' => 'http://localhost:8000/login/bitbucket/callback',
     ],
 
